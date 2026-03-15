@@ -1,5 +1,3 @@
-[ui_preview](https://files.catbox.moe/0mc2x5.gif) 
-
 [2d_preview](https://files.catbox.moe/t1ipw3.gif)
 
 [programming_preview](https://files.catbox.moe/64uqpe.webm)
