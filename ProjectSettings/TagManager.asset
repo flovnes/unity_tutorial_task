@@ -41,6 +41,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Floor
+    uniqueID: 92915625
+    locked: 0
+  - name: Rug
+    uniqueID: 177055821
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

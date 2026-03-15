@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -110,177 +110,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dog-sheet-copy-pasted_0
+      name: Sprite Sheet_Dog_0
       rect:
         serializedVersion: 2
         x: 34
         y: 131
         width: 63
         height: 122
-      alignment: 8
-      pivot: {x: 1, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1605280b2dcb84e0090eb438f0ba7b7c
-      internalID: 2062837192
+      spriteID: 004489e1e6d1daf45afbfecf871f916e
+      internalID: 1428422255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog-sheet-copy-pasted_1
+      name: Sprite Sheet_Dog_1
       rect:
         serializedVersion: 2
         x: 162
         y: 131
         width: 63
         height: 122
-      alignment: 8
-      pivot: {x: 1, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6c9e5fc5549547718a0efdeea4525d5
-      internalID: -42145280
+      spriteID: 131ae6612b77c1e4285478af9c626148
+      internalID: -2064498876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog-sheet-copy-pasted_2
+      name: Sprite Sheet_Dog_2
       rect:
         serializedVersion: 2
         x: 290
         y: 131
         width: 62
         height: 120
-      alignment: 8
-      pivot: {x: 1, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ea23501a61dd4515b30fc04dc8a3bbf
-      internalID: -414252479
+      spriteID: d8e9b070ab70e4a4287ae01818db0458
+      internalID: -684043408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog-sheet-copy-pasted_3
+      name: Sprite Sheet_Dog_3
       rect:
         serializedVersion: 2
         x: 418
         y: 131
         width: 62
         height: 122
-      alignment: 8
-      pivot: {x: 1, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 176937a00144e4ca5aa9bfffa470c1c0
-      internalID: 1337442358
+      spriteID: ab11a4ad8eefe9b4bb1ce276fbacfd59
+      internalID: 85830762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog-sheet-copy-pasted_4
+      name: Sprite Sheet_Dog_4
       rect:
         serializedVersion: 2
         x: 34
         y: 3
         width: 62
         height: 122
-      alignment: 8
-      pivot: {x: 1, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ae262bfd372a4ada86fa2bdf52ae2fc
-      internalID: 2132266317
+      spriteID: d32ba96eda49dc74aba9e733a7b5c6a1
+      internalID: 186361852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog-sheet-copy-pasted_5
+      name: Sprite Sheet_Dog_5
       rect:
         serializedVersion: 2
-        x: 159
+        x: 162
+        y: 3
+        width: 63
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2641deeefae6a449aff6b769aab0816
+      internalID: 1731440057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet_Dog_6
+      rect:
+        serializedVersion: 2
+        x: 287
         y: 3
         width: 66
-        height: 116
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7246f6a4cac5f4a7aa6fe64c6a10c1d0
-      internalID: 852180971
+      spriteID: d8349b45a8add7742837af24714bb961
+      internalID: 1474620310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dog-sheet-copy-pasted_6
+      name: Sprite Sheet_Dog_7
       rect:
         serializedVersion: 2
-        x: 283
+        x: 418
         y: 3
-        width: 70
-        height: 109
-      alignment: 8
-      pivot: {x: 1, y: 0}
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 048014200447947a8817b27c0fd29a59
-      internalID: 783745304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dog-sheet-copy-pasted_7
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 3
-        width: 65
-        height: 116
-      alignment: 8
-      pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 616502da74cec488fb4a3dab9ead60e6
-      internalID: -1596686181
+      spriteID: e7e5fd29ed8f6084593d177ac74cd1af
+      internalID: 813594261
       vertices: []
       indices: 
       edges: []
@@ -297,16 +297,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Dog-sheet-copy-pasted_0: 2062837192
-      Dog-sheet-copy-pasted_1: -42145280
-      Dog-sheet-copy-pasted_2: -414252479
-      Dog-sheet-copy-pasted_3: 1337442358
-      Dog-sheet-copy-pasted_4: 2132266317
-      Dog-sheet-copy-pasted_5: 852180971
-      Dog-sheet-copy-pasted_6: 783745304
-      Dog-sheet-copy-pasted_7: -1596686181
+      Sprite Sheet_Dog_0: 1428422255
+      Sprite Sheet_Dog_1: -2064498876
+      Sprite Sheet_Dog_2: -684043408
+      Sprite Sheet_Dog_3: 85830762
+      Sprite Sheet_Dog_4: 186361852
+      Sprite Sheet_Dog_5: 1731440057
+      Sprite Sheet_Dog_6: 1474620310
+      Sprite Sheet_Dog_7: 813594261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
